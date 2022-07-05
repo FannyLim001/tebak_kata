@@ -4,6 +4,5 @@ Game penyusunan kata acak menjadi kata sesuai dengan EYD berdasarkan KBBI
 Dibuat untuk Project Bengkel Aplikasi Desktop
 
 <h5>Team</h5>
-<br>
-Fanny
+Fanny<br>
 Sholawati
