@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading;
 using System.Windows.Forms;
@@ -17,6 +18,8 @@ namespace Tebak_Kata
         public StartMenu()
         {
             InitializeComponent();
+            SoundPlayer simpleSound = new SoundPlayer(@"C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\Resources\Apoxode_-_jamming_ft._Admiral_Bob_1.wav");
+            simpleSound.PlayLooping();
         }
 
         private void SubmitButton_Click(object sender, EventArgs e)

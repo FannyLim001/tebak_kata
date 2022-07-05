@@ -37,3 +37,7 @@ C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak 
 C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.StartMenu.resources
 C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.IncorrectAns3.resources
 C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.IncorrectAns2.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\Tebak Kata.exe.manifest
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\Tebak Kata.application
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.exe.manifest
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.application
