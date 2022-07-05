@@ -18,8 +18,8 @@ namespace Tebak_Kata
         public StartMenu()
         {
             InitializeComponent();
-            SoundPlayer simpleSound = new SoundPlayer(@"C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\Resources\Apoxode_-_jamming_ft._Admiral_Bob_1.wav");
-            simpleSound.PlayLooping();
+            SoundPlayer ost = new SoundPlayer(@"C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\Resources\Apoxode_-_jamming_ft._Admiral_Bob_1.wav");
+            ost.PlayLooping();
         }
 
         private void SubmitButton_Click(object sender, EventArgs e)
