@@ -1,0 +1,39 @@
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\Tebak Kata.exe.config
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\Tebak Kata.exe
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\Tebak Kata.pdb
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.csproj.AssemblyReference.cache
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.Form1.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.Properties.Resources.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.csproj.GenerateResource.cache
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.csproj.CoreCompileInputs.cache
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.exe
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.pdb
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.GameMode.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.SantaiMode.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.CaraMain.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.Level.Level1.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.CorrectAns.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.IncorrectAns.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.Level.Level2.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.Level.Level3.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.CorrectAns2.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\MySql.Data.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\Google.Protobuf.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\ZstdNet.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\System.Memory.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\System.Buffers.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\bin\Debug\MySql.Data.xml
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.exe.config
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak Kata.csproj.CopyComplete
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.Hint.hint1.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.Hint.hint2.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.Hint.hint3.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.StartMenu.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.IncorrectAns3.resources
+C:\Users\fanny\OneDrive\Documents\Fanny_TID\Matkul\Semester 4\BAD\Project\Tebak Kata\Tebak Kata\Tebak Kata\obj\Debug\Tebak_Kata.IncorrectAns2.resources
